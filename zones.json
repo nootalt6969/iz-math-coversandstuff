@@ -5727,5 +5727,33 @@
     "name": "test 2 (Jade: Enter)",
     "cover": "https://nootalt6969.github.io/iz-math-coversandstuff/test2.gif",
     "url": "https://nootalt6969.github.io/ruffletest/index.html"
+  },
+]
+ {
+    "id": 642,
+    "name": "Friday Night Funkin' Sunday Night Suicide: Rookies Edition",
+    "cover": "{COVER_URL}/642.png",
+    "url": "{HTML_URL}/642.html",
+    "author": "Rookies team",
+    "authorLink": "https://gamebanana.com/mods/503587",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 643,
+    "name": "Rio Rex",
+    "cover": "{COVER_URL}/643.png",
+    "url": "{HTML_URL}/643.html",
+    "author": "Gametornado",
+    "authorLink": "https://store.steampowered.com/app/868830/Rio_Rex/"
+  },
+  {
+    "id": 644,
+    "name": "Friday Night Funkin vs Nonsense",
+    "cover": "{COVER_URL}/644.png",
+    "url": "{HTML_URL}/644.html",
+    "author": "NonsenseNH",
+    "authorLink": "https://www.youtube.com/channel/UCnp4LuZgNt0KwiTMSZN7GIw"
   }
 ]
